@@ -47,4 +47,7 @@ While this may be helpful for some, there are significant risks. hidden tear may
 Special thanks to Ikikardes who helped me to publish this code.
 
 
-<!-- GitAds-Verify: 7FLY32THIDT5VU9YBXEF9NWRWPK2SAPM -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/hidden-tear@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/hidden-tear@github)
+
+
