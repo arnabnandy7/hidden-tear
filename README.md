@@ -45,3 +45,6 @@ While this may be helpful for some, there are significant risks. hidden tear may
 **Thanks**
 
 Special thanks to Ikikardes who helped me to publish this code.
+
+
+<!-- GitAds-Verify: 7FLY32THIDT5VU9YBXEF9NWRWPK2SAPM -->
